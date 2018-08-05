@@ -1,0 +1,29 @@
+1.Practice breaking it down! Choose one of the following to explain as if the listener has never done it before:
+What are the steps involved in making a cup of coffee?
+    1. Put a coffee filter in the filter basket.
+    2. Measure out the amount of coffee you need.
+    A good rule of thumb is for every 2tbsp of ground coffee you scoop you'll make 6 ounces
+    3. Measure the amount of water needed for your coffee grounds.
+    Pour the water in the coffee maker then place the pot back on the warming slot
+    4. Make sure the coffee is completly brewed before taking the cup.
+    If you take a cup before it's completely brewed you will probably taste a fairly strong cup. 
+    If you remove the coffee before its to late then the pot will be too bitter due to the flavors being release later during the brewing process
+    5. Add any extras to make it your taste.
+    Meaning add any milk, syrup, sugar, etc,.
+
+2.In our "Say Hi" example, If the Say Hi part of the program never runs, how would you narrow down the cause of the problem? Explain the process and use a roadmap to visualize it.
+If the "Say Hi" portion of the code is either saying the wrong thing or not working at all, we can follow the steps backward until we find the last step that worked correctly. Then we know that the issue is in a step that follows. This allows us to focus on a smaller portion of the program and makes fixing problems less stressful.
+User Name Input --> User Button Click --> Say Hi
+
+3.Create a problem-solving example using a roadmap and the process of elimination for narrowing down issues of your own. You already use this skill daily. Break down and explain a problem you solve in your everyday life.
+One problem that came up when I was trying to bake a cake for a friends bday. Deciding what kind of cake to get, how much time it would take to make it, gathering the materials, seeing if my kitchen had the right supplies to make the cake, so I follow my five steps and eventually got to bake the cake for my friend.
+    1.Analying the factors or causes contributing to the unwanted situation.
+    What kind of cake?, how much time is needed?, do I need help?
+    2.Generating a set of alternative interventions to achieve your end goal.
+    Materials needed for the cake
+    3.Evaluating the best solutions
+    What type of cake is to be created
+    4.Implementing a plan
+    Getting everything ready and starting the cake process
+    5.Assessing the effectiveness of your interventions
+    Tasting the cake and seeing if it came out right from the oven
